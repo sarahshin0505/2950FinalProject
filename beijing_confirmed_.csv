@@ -1,0 +1,78 @@
+﻿Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Active,Latitude,Longitude
+Beijing,Mainland China,1/22/20 17:00,14,,,,,
+Beijing,Mainland China,1/23/20 17:00,22,,,,,
+Beijing,Mainland China,1/24/20 17:00,36,,1,,,
+Beijing,Mainland China,1/25/20 17:00,41,,2,,,
+Beijing,Mainland China,1/26/20 16:00,68,,2,,,
+Beijing,Mainland China,1/27/20 23:59,80,1,2,,,
+Beijing,Mainland China,1/28/20 23:00,91,1,4,,,
+Beijing,Mainland China,1/29/20 19:30,111,1,4,,,
+Beijing,Mainland China,1/30/20 16:00,114,1,4,,,
+Beijing,Mainland China,1/31/20 23:59,139,1,5,,,
+Beijing,Mainland China,2/1/20 9:17,168,1,9,,,
+Beijing,Mainland China,2020-02-02T08:43:02,191,1,9,,,
+Beijing,Mainland China,2020-02-03T09:23:05,212,1,12,,,
+Beijing,Mainland China,2020-02-04T08:33:01,228,1,23,,,
+Beijing,Mainland China,2020-02-05T05:43:02,253,1,24,,,
+Beijing,Mainland China,2020-02-06T03:23:11,274,1,31,,,
+Beijing,Mainland China,2020-02-07T03:23:02,297,1,33,,,
+Beijing,Mainland China,2020-02-08T03:13:09,315,2,34,,,
+Beijing,Mainland China,2020-02-09T03:43:02,326,2,37,,,
+Beijing,Mainland China,2020-02-10T03:13:08,337,2,44,,,
+Beijing,Mainland China,2020-02-11T03:03:07,342,3,48,,,
+Beijing,Mainland China,2020-02-12T02:43:03,352,3,56,,,
+Beijing,Mainland China,2020-02-13T14:13:06,366,3,69,,,
+Beijing,Mainland China,2020-02-14T06:33:02,372,3,80,,,
+Beijing,Mainland China,2020-02-15T09:53:01,375,4,98,,,
+Beijing,Mainland China,2020-02-16T10:03:06,380,4,108,,,
+Beijing,Mainland China,2020-02-17T01:23:02,381,4,114,,,
+Beijing,Mainland China,2020-02-18T02:13:06,387,4,122,,,
+Beijing,Mainland China,2020-02-19T04:53:02,393,4,145,,,
+Beijing,Mainland China,2020-02-20T01:43:01,395,4,153,,,
+Beijing,Mainland China,2020-02-21T01:03:09,396,4,169,,,
+Beijing,Mainland China,2020-02-22T02:23:05,399,4,178,,,
+Beijing,Mainland China,2020-02-23T01:13:13,399,4,189,,,
+Beijing,Mainland China,2020-02-24T00:53:02,399,4,198,,,
+Beijing,Mainland China,2020-02-25T01:33:02,400,4,215,,,
+Beijing,Mainland China,2020-02-26T00:53:02,400,4,235,,,
+Beijing,Mainland China,2020-02-27T02:23:13,410,5,248,,,
+Beijing,Mainland China,2020-02-28T02:23:05,410,7,257,,,
+Beijing,Mainland China,2020-02-29T03:33:02,411,8,271,,,
+Beijing,Mainland China,2020-03-01T02:53:03,413,8,276,,40.1824,116.4142
+Beijing,Mainland China,2020-03-02T02:13:16,414,8,282,,40.1824,116.4142
+Beijing,Mainland China,2020-03-03T02:03:11,414,8,288,,40.1824,116.4142
+Beijing,Mainland China,2020-03-04T23:23:01,418,8,297,,40.1824,116.4142
+Beijing,Mainland China,2020-03-04T23:23:01,418,8,297,,40.1824,116.4142
+Beijing,Mainland China,2020-03-06T12:53:03,422,8,299,,40.1824,116.4142
+Beijing,Mainland China,2020-03-07T01:03:05,426,8,303,,40.1824,116.4142
+Beijing,Mainland China,2020-03-08T01:23:07,428,8,308,,40.1824,116.4142
+Beijing,Mainland China,2020-03-09T01:53:01,428,8,315,,40.1824,116.4142
+Beijing,Mainland China,2020-03-10T01:13:07,429,8,320,,40.1824,116.4142
+Beijing,China,2020-03-11T02:18:14,435,8,326,,40.1824,116.4142
+Beijing,China,2020-03-12T01:13:05,435,8,334,,40.1824,116.4142
+Beijing,China,2020-03-13T11:09:03,436,8,342,,40.1824,116.4142
+Beijing,China,2020-03-14T02:13:47,437,8,349,,40.1824,116.4142
+Beijing,China,2020-03-15T01:13:10,442,8,353,,40.1824,116.4142
+Beijing,China,2020-03-16T14:38:45,452,8,360,,40.1824,116.4142
+Beijing,China,2020-03-17T10:53:03,456,8,369,,40.1824,116.4142
+Beijing,China,2020-03-18T05:33:05,469,8,378,,40.1824,116.4142
+Beijing,China,2020-03-19T05:13:10,480,8,380,,40.1824,116.4142
+Beijing,China,2020-03-20T06:43:05,491,8,390,,40.1824,116.4142
+Beijing,China,2020-03-21T05:13:04,504,8,396,,40.1824,116.4142
+Beijing,China,3/22/20 7:20,514,8,400,106,40.1824,116.4142
+Beijing,China,3/23/20 7:08,537,8,401,128,40.1824,116.4142
+Beijing,China,3/24/20 7:20,558,8,401,149,40.1824,116.4142
+Beijing,China,3/25/20 7:35,561,8,403,150,40.1824,116.4142
+Beijing,China,3/26/20 6:49,566,8,406,152,40.1824,116.4142
+Beijing,China,3/27/20 5:30,569,8,408,153,40.1824,116.4142
+Beijing,China,3/28/20 6:15,573,8,410,155,40.1824,116.4142
+Beijing,China,3/29/20 14:07,577,8,412,157,40.1824,116.4142
+Beijing,China,3/30/20 5:34,577,8,415,154,40.1824,116.4142
+Beijing,China,3/31/20 5:46,580,8,418,154,40.1824,116.4142
+Beijing,China,4/1/20 0:55,580,8,418,154,40.1824,116.4142
+Beijing,China,4/2/20 2:23,582,8,424,150,40.1824,116.4142
+Beijing,China,4/3/20 8:47,584,8,434,142,40.1824,116.4142
+Beijing,China,4/4/20 0:45,585,8,438,139,40.1824,116.4142
+Beijing,China,4/5/20 1:28,586,8,441,137,40.1824,116.4142
+Beijing,China,4/6/20 1:14,587,8,443,136,40.1824,116.4142
+Beijing,China,4/7/20 0:55,587,8,448,131,40.1824,116.4142
